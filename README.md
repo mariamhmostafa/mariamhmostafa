@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariam Mostafa
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently an undergraduate Media Engineering and Technology Student
+- 🌱 I’m currently an undergraduate Computer Engineering Student
 - 📫 How to reach me mariamhmaarek@gmail.com
 
 <!---
