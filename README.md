@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariam Mostafa
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently an undergraduate Computer Engineering Student
+- 🌱 I’m a fresh Computer Engineering graduate at the German University in Cairo (GUC)
 - 📫 How to reach me mariamhmaarek@gmail.com
 
 <!---
