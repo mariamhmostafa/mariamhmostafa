@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Engineering graduate from the German University in Cairo (GUC)  
 
-💡 My technical interests and hands-on experience span:
+💡 I’ve worked across a wide range of domains and enjoy learning new technologies to solve problems.
 
 - 🧠 **Artificial Intelligence & Machine Learning** (LLMs, neural networks, explainable AI)
 - 🌐 **Web Development** (JS, React, Django, FastAPI, Node.js, SQL, MongoDB)
